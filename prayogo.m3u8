@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INTRO",ZALTV CODE GENERATOR
-https://raw.githubusercontent.com:443/syukriadi66/code/master/Proyek_01-10_SD%20360p_(1).mp4
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
@@ -21,10 +18,10 @@ http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",INDOSIAR
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg" group-title="INDONESIA",INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",INDOSIAR 2
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg/" group-title="INDONESIA",INDOSIAR 2
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV
