@@ -36,6 +36,9 @@ https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 #EXTINF:-1 tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="INDONESIA",GTV 2
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TRANS 7 HD
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TRANS 7
 http://id2.indostreamingtv.com/live/trans7/index.m3u8
 
@@ -48,10 +51,13 @@ https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southea
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TV ONE 2
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TRANS TV
-http://id2.indostreamingtv.com/live/tv33/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TRANS TV HD
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TRANS TV 2
+http://id2.indostreamingtv.com/live/tv33/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TRANS TV 3
 https://livetvhooq.akamaized.net:443/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597746~exp=9007200828338737~acl=/d47264e2fe8f43848fb79b43915fb298/*/profile_2/chunklist.m3u8*~hmac=f7affc9ab3c5d753e46be5cb9c59599ff9af1992dd034c161ae4831ee9f9bfa9
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",INEWS
