@@ -22,7 +22,7 @@ http://id2.indostreamingtv.com/live/antv/index.m3u8
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",INDOSIAR
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1579503650~acl=/hls-b/ingest_205_*/*~hmac=ec547e1e2f7c5d95e5cac4ec148117b170cddc8db45ccaa3adcd533dcfacc76a/hls-b/ingest_205_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",INDOSIAR 2
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
