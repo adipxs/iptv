@@ -24,7 +24,7 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg/" group-title="INDONESIA",INDOSIAR 2
-https://etslive-2-vidio-com.akamaized.net/exp=1579796129~acl=/hls-b/ingest_205_*/*~hmac=146c65080389d1173f7b230dd3418c92db7fd40b4054fcacb37081e46f9d0c87/hls-b/ingest_205_720p/index.m3u8
+hhttps://etslive-2-vidio-com.akamaized.net/exp=1579797798~acl=/hls-p/ingest_205_*/*~hmac=ac6f8cc0fbd31faf0d6ab2a6ed761a6ead8a3ff58bca4e54a47e49bb956b1472/hls-p/ingest_205_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV
 http://id2.indostreamingtv.com/live/nettv/index.m3u8
