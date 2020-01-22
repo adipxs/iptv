@@ -27,10 +27,10 @@ http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg/" group-title="INDONESIA",INDOSIAR 2
 https://etslive-2-vidio-com.akamaized.net/exp=1579798543~acl=/hls-p/ingest_205_*/*~hmac=7a4beee43509073cbccece6a7469f5e2107587297d9c0d27472917ff2eaf4604/hls-p/ingest_205_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0xLEF55Cku1EFhGQth9G42Z6BqQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg" group-title="INDONESIA",NET TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV
 http://id2.indostreamingtv.com/live/nettv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0xLEF55Cku1EFhGQth9G42Z6BqQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg" group-title="INDONESIA",NET TV HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1579822790~acl=/hls-b/ingest_875_*/*~hmac=8f0ddebf93e7910927e75f2f697b3ba9b83eff353a430a7b89c80c46cdc76595/hls-b/ingest_875_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",GLOBAL TV
