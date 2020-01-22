@@ -70,7 +70,7 @@ https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",METRO TV SD
-http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?_res_tag_=video&amp;virtualDomain=000001.live_hls.zte.com
+ttps://etslive-2-vidio-com.akamaized.net/exp=1579798911~acl=/hls-p/ingest_777_*/*~hmac=d7b0ff0c5a2cdead81f53556eb3947df52d210acbf88894d715485d0f24451ea/hls-p/ingest_777_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",JAK TV
 http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
