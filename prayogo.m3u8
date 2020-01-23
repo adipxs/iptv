@@ -298,7 +298,7 @@ http://203.153.218.28:9981/stream/channelid/78064174?ticket=C40949788D0E2EF033DF
 #EXTINF:-1 tvg-id="1bc079cdec765f993747d5bfb7e6ffc8" group-title="INDIHOME",Blue Ant Extreme
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=D8E336A68F41FF0719427512D203E63B86CBE811&profile=pass
 #EXTINF:-1 tvg-id="9836fd0e31a19540234d0fe226ec84af" group-title="INDIHOME",Cartoon Network
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 #EXTINF:-1 tvg-id="7e3a3c8f65d96b33c7e7b25d8538fa8d" group-title="INDIHOME",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=F863A2D24BA5AAC3E655A82101050FA2CA0713C0&profile=pass
 #EXTINF:-1 tvg-id="7e3a3c8f65d96b33c7e7b25d8538fa8d" group-title="INDIHOME",Cinemax Backup
@@ -317,18 +317,18 @@ http://203.153.218.28:9981/stream/channelid/31701170?ticket=2E48030DF49735395AFB
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9527FC229C33A71FBAF7DEF7D4ADD74FA1D1F1D5&profile=pass
 #EXTINF:-1 tvg-id="1898e5f1491a595474f3401d6021a161" group-title="INDIHOME",FOX Backup
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
-#EXTINF:-1 tvg-id="562a2ef4c0816c592d34d74efc55b35f" group-title="INDIHOME",FOX Family Movies
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass
-#EXTINF:-1 tvg-id="a6991a2d9e6d8198f94b3daf95f562f5" group-title="INDIHOME",Fox Movies
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass
+#EXTINF:-1 tvg-id="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="INDIHOME",FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#EXTINF:-1 tvg-id="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="INDIHOME",Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D3
 #EXTINF:-1 tvg-id="9ea370ce73cd5a22f3814b2e2ac02bbe" group-title="INDIHOME",HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 #EXTINF:-1 tvg-id="de8e3602ee1be5612d6121b293501f99" group-title="INDIHOME",HBO HD
 http://203.153.218.28:9981/stream/channelid/37129950?ticket=DBCF024D9A3E4F58C90E2EBA7BB30FB700306650&profile=pass
 #EXTINF:-1 tvg-id="97187cf98cc3a3d2419955eea35c1bf5" group-title="INDIHOME",HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
-#EXTINF:-1 tvg-id="32105947315ce3717a05d57aa09ea673" group-title="INDIHOME",HBO Signature
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=E20CE4FFE9600A12851300CCFE97AAD81D0B030D&profile=pass
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="INDIHOME",HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 #EXTINF:-1 tvg-id="c2c6596f8e7796a5b4ecd8ea7cde9d74" group-title="INDIHOME",History Channel
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=A6B5FCF4BEA85CDC157E4CF8DAE0FE22C9FA8432&profile=pass
 #EXTINF:-1 tvg-id="4c2f958f0b239f4721d18b87c42912f9" group-title="INDIHOME",Indosiar
