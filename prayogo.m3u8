@@ -7,7 +7,8 @@ https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1579657030~exp=9007200834398021~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d6c5a4f175869940abbfe0648fbc15de6662b64c21e72c1a2774c73b8408743b
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",RCTI HD
-https://etslive-2-vidio-com.akamaized.net/exp=1579963219~acl=/hls-p/ingest_665_*/*~hmac=c485154b978de88d377e6419e185f4d2a2cd8914900636665741e74938501a9b/hls-p/ingest_665_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580107654~acl=/hls-p/ingest_665_*/*~hmac=fa6b970ee16c3dd6b66aba88ee900de798e01353d34704f282cc88008f91fd3e/hls-p/ingest_665_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",MNC
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
@@ -21,24 +22,26 @@ http://id2.indostreamingtv.com/live/antv/index.m3u8
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",SCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1579963612~acl=/hls-p/ingest_204_*/*~hmac=1f6c18833accd587555b1f2be153bb3859d5c82313a0aa62c8edac5232333c3d/hls-p/ingest_204_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580107710~acl=/hls-p/ingest_204_*/*~hmac=bdf02a564e9f6f5b78bd7962a33f33eb5d027d70c1f800107418041bacffbe40/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg" group-title="INDONESIA",INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg/" group-title="INDONESIA",INDOSIAR 2
-https://etslive-2-vidio-com.akamaized.net/exp=1579963072~acl=/hls-p/ingest_205_*/*~hmac=38a89511136fe282fdb8d0c383baaa041aacbf3d86b600467d2d38fde0a97131/hls-p/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580107775~acl=/hls-p/ingest_205_*/*~hmac=f62a770c3f00f0f10e7998b0c1f8931d84464cfda0a27da306063f3c24c9d3ba/hls-p/ingest_205_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV
 http://id2.indostreamingtv.com/live/nettv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1579822790~acl=/hls-b/ingest_875_*/*~hmac=8f0ddebf93e7910927e75f2f697b3ba9b83eff353a430a7b89c80c46cdc76595/hls-b/ingest_875_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580107851~acl=/hls-p/ingest_875_*/*~hmac=5bd2263a5dab6c51c3a828ff6a3419f44d48aaa493bff538b14fb08f26035aea/hls-p/ingest_875_720p/index.m3u889c80c46cdc76595/hls-b/ingest_875_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",GLOBAL TV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",GLOBAL TV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1579963500~acl=/hls-p/ingest_778_*/*~hmac=86d6fb6a3a8756eec59177b2071881096bbe223ed20d7dcec6f993c9defed40f/hls-p/ingest_778_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580107892~acl=/hls-p/ingest_778_*/*~hmac=d90533f3c635d374711daf64d771dccce1f1351089d9e1dc60f8e4f869c4eba9/hls-p/ingest_778_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="INDONESIA",GTV 2
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
 
@@ -71,6 +74,7 @@ https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",RTV
 https://etslive-2-vidio-com.akamaized.net/exp=1579798749~acl=/hls-p/ingest_geo_1561_*/*~hmac=68a3c11110443ad95156daf0bc26550981ba7d94d1afbf708950425f8c6d56ab/hls-p/ingest_geo_1561_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",RTV 2
 https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
 
