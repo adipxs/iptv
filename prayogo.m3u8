@@ -7,7 +7,7 @@ https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1579657030~exp=9007200834398021~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d6c5a4f175869940abbfe0648fbc15de6662b64c21e72c1a2774c73b8408743b
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",RCTI HD
-https://etslive-2-vidio-com.akamaized.net/exp=1580107654~acl=/hls-p/ingest_665_*/*~hmac=fa6b970ee16c3dd6b66aba88ee900de798e01353d34704f282cc88008f91fd3e/hls-p/ingest_665_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580413943~acl=/hls-p/ingest_665_*/*~hmac=d26d00c1f94161e02e3029c7ef99025b7649cbbe54bf1fad4fce59ead55685c1/hls-p/ingest_665_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",MNC
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
@@ -22,25 +22,25 @@ http://id2.indostreamingtv.com/live/antv/index.m3u8
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",SCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1580107710~acl=/hls-p/ingest_204_*/*~hmac=bdf02a564e9f6f5b78bd7962a33f33eb5d027d70c1f800107418041bacffbe40/hls-p/ingest_204_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580414027~acl=/hls-p/ingest_204_*/*~hmac=0a2c756b1e52670c625e85d7a804fe1148c76d5177c7fc70e831a5eac71b1ec0/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg" group-title="INDONESIA",INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg/" group-title="INDONESIA",INDOSIAR 2
-https://etslive-2-vidio-com.akamaized.net/exp=1580107775~acl=/hls-p/ingest_205_*/*~hmac=f62a770c3f00f0f10e7998b0c1f8931d84464cfda0a27da306063f3c24c9d3ba/hls-p/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580414102~acl=/hls-p/ingest_205_*/*~hmac=08aad033f475fe943f20b2718d98d81562a74dc98da1a1ccf7a65fd7ddc27844/hls-p/ingest_205_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV
 http://id2.indostreamingtv.com/live/nettv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1580107851~acl=/hls-p/ingest_875_*/*~hmac=5bd2263a5dab6c51c3a828ff6a3419f44d48aaa493bff538b14fb08f26035aea/hls-p/ingest_875_720p/index.m3u889c80c46cdc76595/hls-b/ingest_875_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580414170~acl=/hls-p/ingest_875_*/*~hmac=08bdc3a56acdfd55d050141e11ae4d9030d59e8c958c5f6324462b63577ffb35/hls-p/ingest_875_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",GLOBAL TV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",GLOBAL TV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1580107892~acl=/hls-p/ingest_778_*/*~hmac=d90533f3c635d374711daf64d771dccce1f1351089d9e1dc60f8e4f869c4eba9/hls-p/ingest_778_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580414246~acl=/hls-p/ingest_778_*/*~hmac=14334b03881bd74dd90e140422eff8db24713470dc94356fc61495f227672db4/hls-p/ingest_778_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="INDONESIA",GTV 2
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
@@ -58,7 +58,7 @@ https://livetvhooq.akamaized.net:443/659beb5e22754dcb90ffd25247be6627/ap-southea
 https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TV ONE 2
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580414291~acl=/hls-p/ingest_783_*/*~hmac=e2a548867c5fa6116f7dd9f9fb95432810dc31bfae1eba24b553c0d512256ad6/hls-p/ingest_783_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TRANS TV HD
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
