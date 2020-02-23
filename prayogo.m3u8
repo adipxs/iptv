@@ -7,7 +7,7 @@ https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1579657030~exp=9007200834398021~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d6c5a4f175869940abbfe0648fbc15de6662b64c21e72c1a2774c73b8408743b
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",RCTI HD
-https://etslive-2-vidio-com.akamaized.net/exp=1580413943~acl=/hls-p/ingest_665_*/*~hmac=d26d00c1f94161e02e3029c7ef99025b7649cbbe54bf1fad4fce59ead55685c1/hls-p/ingest_665_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582473282~acl=/hls-p/ingest_665_*/*~hmac=146ddbd51a333635aced87f2b5efa45ba5613bc093bfed56c914811f3adbe270/hls-p/ingest_665_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",MNC
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
