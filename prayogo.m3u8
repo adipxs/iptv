@@ -21,11 +21,8 @@ http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1584886327~acl=/hls-p/ingest_204_*/*~hmac=6ed8ef5871dcdfca2cea5410843cc658c3d53efe7595e2751601448f07de54d3/hls-p/ingest_204_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",SCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1584886327~acl=/hls-p/ingest_204_*/*~hmac=6ed8ef5871dcdfca2cea5410843cc658c3d53efe7595e2751601448f07de54d3/hls-p/ingest_204_480p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg" group-title="INDONESIA",INDOSIAR
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1584887385~acl=/hls-p/ingest_205_*/*~hmac=888b1590e51e71f57e5269e95da88ba85496f92235baaae340ab842c5e881cae/hls-p/ingest_205_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg/" group-title="INDONESIA",INDOSIAR 2
 https://etslive-2-vidio-com.akamaized.net/exp=1584532450~acl=/hls-p/ingest_205_*/*~hmac=43f350c5daf82b064d56114d1eccd0820134d04d2edd477a66a7f94f2084a0a2/hls-p/ingest_205_480p/index.m3u8 
