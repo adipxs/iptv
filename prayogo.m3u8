@@ -6,9 +6,6 @@ https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",RCTI 2
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1579657030~exp=9007200834398021~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d6c5a4f175869940abbfe0648fbc15de6662b64c21e72c1a2774c73b8408743b
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",RCTI HD
-https://etslive-2-vidio-com.akamaized.net/exp=1582473282~acl=/hls-p/ingest_665_*/*~hmac=146ddbd51a333635aced87f2b5efa45ba5613bc093bfed56c914811f3adbe270/hls-p/ingest_665_720p/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",MNC
 https://etslive-2-vidio-com.akamaized.net/exp=1582473434~acl=/hls-p/ingest_870_*/*~hmac=d3c6968adbdfdc77ac25730aa3b71bf3e2faba1962a2d10f5d5de6c2719ee0bf/hls-p/ingest_870_720p/index.m3u8
 
@@ -22,10 +19,7 @@ http://id2.indostreamingtv.com/live/antv/index.m3u8
 https://etslive-2-vidio-com.akamaized.net/exp=1584978785~acl=/hls-p/ingest_204_*/*~hmac=319446915fd887cd2c5a7fa2516c1cc6f30c64bb096b8b67a8cfc4d08ab3f7ac/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg" group-title="INDONESIA",INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1584978863~acl=/hls-p/ingest_205_*/*~hmac=f70ff671a2c7cc2d5e80f527308379d4931a564bd118b717f8cf2c465bd00b44/hls-p/ingest_205_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV
-http://id2.indostreamingtv.com/live/nettv/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1584978863~acl=/hls-p/ingest_205_*/*~hmac=f70ff671a2c7cc2d5e80f527308379d4931a564bd118b717f8cf2c465bd00b44/hls-p/ingest_205_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1584532170~acl=/hls-p/ingest_875_*/*~hmac=acea27e8bb44edcf6336e52d10dbd5c4195eae6a6c7e06356dea9ee1b69c83cb/hls-p/ingest_875_480p/index.m3u8
