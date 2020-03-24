@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",RCTI
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+https://vcdnjt.useetv.com/joss/15/net/chunklist_w791843038_b894100_sleng.m3u8?enc=38gXwBkWLZlCgb0Y0ioTuw&exp=1585053775
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",RCTI 2
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1579657030~exp=9007200834398021~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d6c5a4f175869940abbfe0648fbc15de6662b64c21e72c1a2774c73b8408743b
