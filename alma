@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png" group-title="Local",Ruang Trampil
+https://vcdnjt.useetv.com/joss/15/useeinfo/chunklist_w184804623_b894100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?" group-title="Local",Usee Photo
+https://vcdnjt.useetv.com/joss/15/useephoto/playlist.m3u8?enc=3vRaO_nwJrU7S0LY0cpEtw&exp=1585187842&encp=UrH4V2bQcEdzK1DpUmyztg&expp=1585196542
+
