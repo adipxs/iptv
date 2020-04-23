@@ -4,10 +4,7 @@
 https://etslive-2-vidio-com.akamaized.net/exp=1587577663~acl=/hls-p/ingest_665_*/*~hmac=e4e247769bad67377cc88accc15c48a70f7178d090ba983b5759d54df924bc7b/hls-p/ingest_665_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",SCTV1
-https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w942120728_b684100_sleng.m3u8?enc=5-wHom5dOmheSIgPFLM47w&exp=1587577831
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",SCTV Backup
-https://etslive-2-vidio-com.akamaized.net/exp=1587577480~acl=/hls-p/ingest_204_*/*~hmac=824ba7ef100e551d14ebfd9aeb158bed7c321785ff31bb9d890bcc58e4db3497/hls-p/ingest_204_720p/index.m3u8
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w903621092_b1344100_sleng_237701.m3u8?enc=ALNI_MZFysrrqQwaLMj5sF7j6vX5jVAHhA&exp=1587567690
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",GTV
 https://etslive-2-vidio-com.akamaized.net/exp=1587577454~acl=/hls-p/ingest_778_*/*~hmac=bcafed307d10e14ed3b371dbe64eea842491f90f60d8406f2fd16867f56b275f/hls-p/ingest_778_720p/index.m3u8
